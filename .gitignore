@@ -1,0 +1,21 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+app.json
+package.json
+firebaseConfig.js
+GoogleLoginScreen.js
+node_modules/
+keys.js
+
+
+# macOS
+.DS_Store
